@@ -22,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$PROJECT_DIR$/../../../SoftwarePath/apache-maven-3.9.4-bin/apache-maven-3.9.4/maven-repo/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1-sources.jar!/javax/servlet/GenericServlet.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../SoftwarePath/apache-maven-3.9.4-bin/apache-maven-3.9.4/maven-repo/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1-sources.jar!/javax/servlet/Servlet.java" root0="SKIP_INSPECTION" />
@@ -44,6 +47,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2UdpyY3Lw4duz6Pn2vciaejXmKw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,6 +57,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "17",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -176,7 +181,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693279567004</updated>
       <workItem from="1693279568878" duration="173000" />
-      <workItem from="1693288328424" duration="7439000" />
+      <workItem from="1693288328424" duration="7886000" />
     </task>
     <servers />
   </component>
