@@ -10,11 +10,7 @@
     <packaging>war</packaging>
     <name>Javaweb-01-Servlet Maven Webapp</name>
     <url>http://maven.apache.org</url>
-<!--    配置java版本  -->
-    <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
-    </properties>
+
 
 
     <dependencies>

@@ -6,10 +6,22 @@
   <packaging>pom</packaging>
   <modules>
     <module>Javaweb-01-Servlet</module>
+    <module>Javaweb-02-ServletContext</module>
+    <module>Javaweb-03-HttpServletResponse</module>
+    <module>Javaweb-04-HttpServletRequest</module>
+      <module>Javaweb-05-Cookie</module>
+      <module>Javaweb-06-Session</module>
   </modules>
   <version>1.0-SNAPSHOT</version>
   <name>Javaweb Maven Webapp</name>
   <url>http://maven.apache.org</url>
+
+  <!--    配置java版本  -->
+  <properties>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
+  </properties>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>

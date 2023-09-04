@@ -3,6 +3,16 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Javaweb-01-Servlet/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Javaweb-01-Servlet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Javaweb-02-ServletContext/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Javaweb-02-ServletContext/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Javaweb-03-HttpServletResponse/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Javaweb-03-HttpServletResponse/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Javaweb-04-HttpServletRequest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Javaweb-04-HttpServletRequest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Javaweb-05-Cookie/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Javaweb-05-Cookie/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Javaweb-06-Session/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Javaweb-06-Session/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
