@@ -9,15 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6456c220-c83d-4e09-888b-9eb836de879b" name="Changes" comment="feat: JSP测试">
-      <change afterPath="$PROJECT_DIR$/Javaweb-07-Jsp/src/main/webapp/tag.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javaweb-07-Jsp/src/main/webapp/tag2.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="6456c220-c83d-4e09-888b-9eb836de879b" name="Changes" comment="feat: update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Javaweb-06-Session/src/main/java/top/zley/servlet/Session01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Javaweb-06-Session/src/main/java/top/zley/servlet/Session01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Javaweb-06-Session/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Javaweb-06-Session/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Javaweb-07-Jsp/src/main/webapp/setgetcontext.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Javaweb-07-Jsp/src/main/webapp/setgetcontext.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,7 +195,7 @@
       <workItem from="1693794668682" duration="15798000" />
       <workItem from="1693876037846" duration="4090000" />
       <workItem from="1693882236407" duration="72000" />
-      <workItem from="1693882321833" duration="2559000" />
+      <workItem from="1693882321833" duration="3223000" />
     </task>
     <task id="LOCAL-00001" summary="feat: servlet 使用">
       <created>1693301167091</created>
@@ -267,7 +260,28 @@
       <option name="project" value="LOCAL" />
       <updated>1693820063858</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat: Session学习">
+      <created>1693894662495</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1693894662495</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat: JSP学习">
+      <created>1693894674429</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1693894674429</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: update">
+      <created>1693894685421</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1693894685421</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,9 +294,11 @@
     <MESSAGE value="feat: Response测试使用" />
     <MESSAGE value="feat: Request测试使用" />
     <MESSAGE value="feat: Cookie和Session测试使用" />
-    <MESSAGE value="feat: update" />
     <MESSAGE value="feat: u&#10;pdate" />
     <MESSAGE value="feat: JSP测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: JSP测试" />
+    <MESSAGE value="feat: Session学习" />
+    <MESSAGE value="feat: JSP学习" />
+    <MESSAGE value="feat: update" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: update" />
   </component>
 </project>
