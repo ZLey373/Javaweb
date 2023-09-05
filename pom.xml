@@ -11,6 +11,7 @@
     <module>Javaweb-04-HttpServletRequest</module>
       <module>Javaweb-05-Cookie</module>
       <module>Javaweb-06-Session</module>
+      <module>Javaweb-07-Jsp</module>
   </modules>
   <version>1.0-SNAPSHOT</version>
   <name>Javaweb Maven Webapp</name>
@@ -42,6 +43,19 @@
       <artifactId>jsp-api</artifactId>
       <version>2.2</version>
     </dependency>
+    <!--    JSTL表达式-->
+    <dependency>
+      <groupId>javax.servlet.jsp.jstl</groupId>
+      <artifactId>jstl-api</artifactId>
+      <version>1.2</version>
+    </dependency>
+    <!--      standard-->
+    <dependency>
+      <groupId>taglibs</groupId>
+      <artifactId>standard</artifactId>
+      <version>1.1.2</version>
+    </dependency>
+
 
   </dependencies>
   <build>
