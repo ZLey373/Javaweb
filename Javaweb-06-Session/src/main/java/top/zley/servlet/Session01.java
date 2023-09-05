@@ -1,5 +1,4 @@
 package top.zley.servlet;
-
 import top.zley.pojo.user;
 
 import javax.servlet.ServletException;
@@ -8,6 +7,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import java.io.IOException;
+
+
 
 /**
  * @author: ZLey
@@ -42,6 +43,7 @@ public class Session01 extends HttpServlet {
         }
         // 获得session的键值
        // resp.getWriter().write((String)session.getAttribute("name"));
+
 
     }
 
